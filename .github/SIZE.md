@@ -276,8 +276,8 @@
  172K   │ │ ├── sort
  172K   │ │ ├── cksum
  168K   │ │ ├── ptx
+ 168K   │ │ ├── ginstall
  168K   │ │ ├── expr
- 164K   │ │ ├── ginstall
  164K   │ │ ├── csplit
  160K   │ │ ├── git-cvsserver
  156K   │ │ ├── stat
