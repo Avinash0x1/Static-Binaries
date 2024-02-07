@@ -271,8 +271,8 @@
  216K   │ │ ├── ls
  216K   │ │ ├── dir
  192K   │ │ ├── toe
+ 192K   │ │ ├── sed
  192K   │ │ ├── locate
- 188K   │ │ ├── sed
  172K   │ │ ├── sort
  172K   │ │ ├── cksum
  168K   │ │ ├── ptx
@@ -844,8 +844,8 @@
  4.0K   │ ├── version.txt
  4.0K   │ └── INFO.md
  259M   ├─┬ gost
-  13M   │ ├── gost_mips64le_Linux
   13M   │ ├── gost_mips64_Linux
+  13M   │ ├── gost_mips64le_Linux
   13M   │ ├── gost_mipsle_softfloat_Linux
   13M   │ ├── gost_mips_softfloat_Linux
   13M   │ ├── gost_mipsle_hardfloat_Linux
