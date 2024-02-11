@@ -817,9 +817,9 @@
   11M   │ ├── aria2c_amd_x86_64_musl_Linux
   11M   │ ├── aria2c_aarch64_arm64_musl_latest_Linux
   10M   │ ├── aria2c_mips64_libressl_musl_latest_Linux
-  10M   │ ├── aria2c_mips64_libressl_musl_Linux
   10M   │ ├── aria2c_mipsel_libressl_musl_latest_Linux
   10M   │ ├── aria2c_mips_libressl_musl_latest_Linux
+  10M   │ ├── aria2c_mips64_libressl_musl_Linux
   10M   │ ├── aria2c_mipsel_libressl_musl_Linux
   10M   │ ├── aria2c_mips_libressl_musl_Linux
   10M   │ ├── aria2c_aarch64_arm64_musl_Linux
@@ -869,8 +869,8 @@
  8.0K   │ ├── INFO.md
  4.0K   │ └── version.txt
  211M   ├─┬ croc
- 8.1M   │ ├── croc_mips64le_Linux
  8.1M   │ ├── croc_mips64_Linux
+ 8.1M   │ ├── croc_mips64le_Linux
  7.9M   │ ├── croc_x86_64_macOS
  7.9M   │ ├── croc_mipsle_Linux
  7.9M   │ ├── croc_mips_Linux
